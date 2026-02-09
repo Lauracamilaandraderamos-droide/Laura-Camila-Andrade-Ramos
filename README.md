@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/33cd9269-9384-4926-819f-68155692f9c0" />
+<img width="2516" height="732" alt="image" src="https://github.com/user-attachments/assets/a8ae96c3-eae7-48ef-af87-2d4faf4a6890" />
+
 # 👋 Hola, soy Laura Andrade
 
 💻 QA Engineer en formación  
@@ -7,7 +8,7 @@
 
 💻 Tecnologies
 
-JavaScript Express.js MongoDB Next.js NGINX Node.js Postman React Vite Figma Photoshop Ilustrator After Effects
+
 
 ---
 
