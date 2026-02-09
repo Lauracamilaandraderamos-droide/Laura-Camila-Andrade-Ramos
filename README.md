@@ -5,6 +5,10 @@
 🚀 Apasionada por la calidad del software y la mejora continua  
 ☕ Amante del café y del aprendizaje constante  
 
+💻 Tecnologies
+
+JavaScript Express.js MongoDB Next.js NGINX Node.js Postman React Vite Figma Photoshop Ilustrator After Effects
+
 ---
 
 ## 👩‍💻 Sobre mí
